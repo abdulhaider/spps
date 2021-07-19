@@ -1,0 +1,53 @@
+body{
+      background-color: rgb(170, 238, 196);
+      color:rgb(49, 29, 3);
+      font: normal 17px Arial,Helvetica Sans-serif;
+      line-height: 1.5em;
+      margin: 0%;
+}
+
+.title{
+      width: 30;
+      margin: 80px;
+}
+.case-1{
+      background-color: rgb(78, 194, 123);
+      color:darkblue;
+      border-right: darkcyan;
+      padding: 30px;
+      font:large;
+      border: 2px dotted rgb(22, 110, 30) ;
+      width: 30;
+      margin: auto;
+}
+.case-2{
+      background-color: rgb(170, 238, 196);
+      color: rgb(2, 12, 12);
+      padding: 20px;
+      width: 20;
+      margin: 80px;
+      border: 2px dotted rgb(22, 110, 30) 
+}
+
+.skills{
+      border: 2px dotted green;
+      padding: 30px;
+      margin: 80px;
+      width: 30;
+}
+
+.case-3{
+      background-color: cadetblue;
+      color: rgb(1, 7, 7);
+      padding: 20px;
+      width: 30;
+      margin: auto;
+}
+
+.footer{
+      background-color: rgb(55, 85, 151);
+      color: rgb(2, 5, 5);
+      padding: 20px;
+      width: 10;
+      margin: 100;
+}
